@@ -1,5 +1,9 @@
 # California County Spending Efficiency Dashboard
 
+**Author:** Karen Wu
+**Date:** June 2026
+
+
 ## Overview
 Analysis of FY2024 revenue and expenditure data across all 57 California counties using the State Controller's public financial dataset, to identify spending efficiency patterns by county size.
 
